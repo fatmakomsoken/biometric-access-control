@@ -19,6 +19,3 @@ Bu proje ile biyometrik sistemlerin çalışma mantığı öğrenilir, güvenlik
 Aşağıda projenin devre şeması yer almaktadır:
 
 ![Devre Şeması](A_schematic_diagram_of_an_Arduino-based_biometric_.png)
-
-## Not
-Bu proje ilerleyen süreçte fiziksel olarak kurulacak ve Arduino kodlarıyla tamamlanacaktır.
